@@ -10,9 +10,10 @@ Just run the main.py file and voila!
 
 Run the following commands in the command prompt to install a few dependencies:
 
-
-'pip install pyttsx3
+```
+pip install pyttsx3
 
 pip install pypiwin32.
 
-pip install wikipedia'
+pip install wikipedia
+```
