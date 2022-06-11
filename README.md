@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 **py_virtual_assistant**
 
 A virtual assistant that responds to voice commands, and performs multiple commands to improve productivity and ease of life.
@@ -17,3 +18,7 @@ pip install pypiwin32.
 
 pip install wikipedia
 ```
+=======
+# py_virtual_assistant
+ A virtual assistant that responds to voice commands, and performs multiple commands to improve productivity and ease of life.
+>>>>>>> Stashed changes
