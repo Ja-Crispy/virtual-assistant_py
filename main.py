@@ -16,7 +16,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
 
 
-# Speak function will pronounce the strin which is passed to it
+# Speak function will pronounce the string which is passed to it
 def speak(text):
     engine.say(text)
     engine.runAndWait()
